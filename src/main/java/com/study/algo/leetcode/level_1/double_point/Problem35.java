@@ -1,4 +1,4 @@
-package com.study.algo.leetcode.double_point;
+package com.study.algo.leetcode.level_1.double_point;
 
 /**
  * https://leetcode-cn.com/problems/search-insert-position/
